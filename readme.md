@@ -1,6 +1,6 @@
 # 百度fis3自动化工具常用配置 #
 
-    git clone https://github.com/sailengsi/fis3-settings
+    git clone https://github.com/sailengsi/sls-fis3-settings
 	cd fis3-settings/src/dev
 	npm install
 	npm run build
