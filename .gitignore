@@ -1,5 +1,4 @@
-/dev/node_modules
-/release
-/src/dev/node_modules
+node_modules
 /src/release
 .idea
+*.log
